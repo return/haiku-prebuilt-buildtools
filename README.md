@@ -1,6 +1,6 @@
 # Prebuilt Haiku toolchain for Cross-compilation
 
-Unofficial prebuilt buildtools for Haiku for various platforms. Used for cross-compiling Haiku apps and other ports requiring a cross-compiler without rebuilding the toolchain. This is currently for r1beta1 and stable releases of Haiku.
+Unofficial prebuilt buildtools for the Haiku Operating System for various platforms. Used for cross-compiling Haiku apps and other ports requiring a cross-compiler without rebuilding the toolchain. This is currently for r1beta1 and stable releases of Haiku.
 
 See the [releases](https://github.com/return/haiku-prebuilt-buildtools/releases) section for downloading a stable version of the cross-compiler and then proceed to the installation below.
 
