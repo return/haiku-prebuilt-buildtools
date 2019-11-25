@@ -4,7 +4,7 @@ Unofficial prebuilt buildtools for Haiku for various platforms. Used for cross-c
 
 ## Installation:
 1. Extract the tar.gz into the root of the generated folder or the location of the cross-compiler inside the `haiku` source folder.
-2. Run ../configure --build-cross-tools x86_64 ../../buildtools to configure the prebuilt cross-compiler.
+2. Run `../configure --build-cross-tools x86_64 ../../buildtools` to configure the prebuilt cross-compiler.
 3. It should return `Configured successfully!`
 
 
